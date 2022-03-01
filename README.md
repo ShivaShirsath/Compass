@@ -1,5 +1,5 @@
 # Compass app
 android java
 
-# [Releases](../releases)
+# [Releases](../../releases)
 
