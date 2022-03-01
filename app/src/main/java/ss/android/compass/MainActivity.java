@@ -1,6 +1,6 @@
 package ss.android.compass;
 
-import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCpackagepackage
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                         ((ImageView) findViewById(R.id.imageView)).startAnimation(
                             new RotateAnimation(
                                 -event.values[0],
-                                event.values[0], 
+                                -event.values[0], 
                                 Animation.RELATIVE_TO_SELF, 
                                 0.5f, 
                                 Animation.RELATIVE_TO_SELF, 
