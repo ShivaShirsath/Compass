@@ -1,6 +1,6 @@
 package ss.android.compass;
 
-import androidx.appcompat.app.AppCpackagepackage
+import androidx.appcompat.app.AppCompatActivity;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
