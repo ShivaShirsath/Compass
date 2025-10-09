@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                                 0.5f
                             )
                         );
-                        ((TextView) findViewById(R.id.textView)).setText((int)event.values[0] + "°");
+                        ((TextView) findViewById(R.id.textView)).setText((int)event.values[0] + "° Shiva");
                     }
                 }
                 @Override public void onAccuracyChanged(Sensor sensor, int accuracy) {}
